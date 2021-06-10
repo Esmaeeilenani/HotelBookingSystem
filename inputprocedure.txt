@@ -1,0 +1,32 @@
+Reserve StandardRoom King city 2016 11 11 2016 11 16 V 10167 Ahmad_Ali Saudi ali@gmail.com 0505676677 145
+Reserve StandardRoom King city 2016 11 18 2016 11 22 G 11234 Sameer_Maghrabi Saudi Sameer@gmail.com 0567757575
+Reserve StandardRoom King city 2016 11 15 2016 11 18 G 12121 Ghada_Ali Saudi Ghada@gmail.com 0567756666
+Reserve StandardRoom Single city 2017 2 5 2017 2 10 G 10909 Sara_Shalabi Egyptian Sara@gmail.com 0567445566
+Reserve StandardRoom King Ocean 2016 11 16 2016 11 18 G 12111 Maha_Ali Saudi Maha@gmail.com 0567750000
+Reserve StandardRoom Double Ocean 2016 10 11 2016 10 20 V 12134 Ahmad_Alghamdi Saudi Ahmad@gmail.com 0505670077 155
+Reserve StandardRoom Double Ocean 2016 11 11 2016 11 16 G 11167 Sameer_basha Egyptian sameer@gmail.com 0505666655
+Reserve StandardRoom Single city 2017 2 5 2017 2 9 G 10679 Arwa_Shalabi Egyptian Arwa@gmail.com 0567445878 
+Reserve StandardRoom King City 2017 1 11 2017 1 16 V 10007 Laila_Ali Egyptian laila@gmail.com 0505632324 140
+Reserve StandardRoom Double Ocean 2017 2 11 2017 2 16 G 11117 Maha_Alghamdi Saudi Maha@gmail.com 05055777324
+Reserve StandardRoom Double Ocean 2017 10 15 2017 10 17 G 10227 Aziz_Mohammed Egyptian aziz@gmail.com 0505888824 
+Reserve StandardRoom Single city 2017 2 3 2017 2 8 V 10665 Ali_Shalabi Egyptian Alish@gmail.com 0500449998 444
+Reserve StandardRoom Single city 2017 2 3 2017 2 8 V 10555 Lulu_Shalabi Egyptian Lulu@gmail.com 0500445078 434
+Reserve StandardRoom King Ocean 2017 4 4 2017 4 8 G 18555 Mona_Fllata Saudi Mona@gmail.com 0590909078 
+Reserve StandardRoom King Ocean 2017 4 7 2017 4 10 G 12225 Salwa_Fllata Saudi Salwa@gmail.com 0590889977
+Reserve Bungalow 2 pool 2017 4 4 2017 4 9 G 19099 Arwa_Abdulaziz Saudi ArwaA@gmail.com 0567400078
+Reserve Bungalow 3 pool 2017 3 12 2017 3 14 V 10000 Salma_Omar Saudi Salma@gmail.com 0566600078 676
+Reserve Bungalow 3 Garden 2017 2 12 2017 2 14 V 10011 Saleem_Omar Egyptian Saleem@gmail.com 0566609978 976
+Reserve Bungalow 2 pool 2017 4 6 2017 4 9 G 14449 Omar_Omar Saudi OmarO@gmail.com 0567488899
+Reserve Bungalow 2 pool 2017 4 4 2017 4 9 G 12299 Aziz_Ali Saudi AliA@gmail.com 0567406565
+Service 11234 Spa
+Service 12134 BabySiiter
+Service 11167 Gym
+Service 10011 RoomService_Breakfast
+Service 10227 RoomService_Breakfast
+Service 10227 RoomService_Lunch
+Service 10227 RoomService_Dinner
+Service 11234 RoomService_Lunch
+Service 10011 Laundry 
+Service 10011 Gym
+Print_Invoce
+Quit
